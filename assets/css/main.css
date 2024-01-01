@@ -34,6 +34,7 @@ body {
   letter-spacing: 0;
   width: 288px;
   margin: 8px auto;
+  color: #1F314F;
 }
 .qr-text {
   width: 256px;
@@ -45,4 +46,5 @@ body {
   letter-spacing: .19px;
   text-align: center;
   text-align: center;
+  color: #1F314F
 }
