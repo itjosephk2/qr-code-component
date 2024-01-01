@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Barlow+Semi+Condensed:wght@400;600;700&family=Figtree:wght@300;400;500;600;700;800&family=Outfit:wght@400;700&family=Roboto:wght@300;400;500;700&family=Work+Sans:wght@400;600;700&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100%;
+  background-color: #F2F2F2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.qr-card {
+  width: 320px;
+  height: 497px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+.qr-image {
+  width: 288px;
+  height: 288px;
+  border-radius: 10px;
+  margin: 16px;
+}
+.qr-title {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  width: 288px;
+  margin: 8px auto;
+}
+.qr-text {
+  width: 256px;
+  margin: auto;
+  margin-top: 8px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: .19px;
+  text-align: center;
+  text-align: center;
+}
