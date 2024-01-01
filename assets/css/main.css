@@ -19,6 +19,7 @@ body {
   height: 497px;
   background-color: #fff;
   border-radius: 20px;
+  filter: drop-shadow(0, 4px, 4px;);
 }
 .qr-image {
   width: 288px;
